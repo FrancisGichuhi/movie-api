@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mlundstrom23/movie-api.git"
+    "url": "git+https://github.com/FrancisGichuhi/movie-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mlundstrom23/movie-api/issues"
+    "url": "https://github.com/FrancisGichuhi/movie-api/issues"
   },
-  "homepage": "https://github.com/mlundstrom23/movie-api#readme",
+  "homepage": "https://github.com/FrancisGichuhi/movie-api#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
